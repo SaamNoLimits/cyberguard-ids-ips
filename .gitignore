@@ -1,0 +1,156 @@
+# CyberGuard IDS/IPS Platform - Git Ignore File
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Next.js
+.next/
+out/
+build/
+dist/
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.bak
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime Data
+pids/
+*.pid
+*.seed
+*.pid.lock
+.backend_pid
+.frontend_pid
+
+# Coverage Directory
+coverage/
+*.lcov
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# PCAP Files (Network Captures)
+*.pcap
+*.pcapng
+pcap_storage/
+
+# Uploads Directory
+uploads/
+temp/
+tmp/
+
+# Docker
+.dockerignore
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Machine Learning Models (large files)
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Compiled Files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Backup Files
+*.bak
+*.backup
+*.old
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Testing
+.nyc_output
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Security
+*.pem
+*.key
+*.crt
+*.p12
+secrets/
+
+# Local Configuration
+config.local.json
+settings.local.json
+
+# Temporary Files
+.tmp/
+.temp/
