@@ -898,9 +898,9 @@ copies or substantial portions of the Software.
 ### 🔧 **Professional Support**
 
 For enterprise deployments and professional support:
-- **📧 Contact**: enterprise@cyberguard.io
-- **📱 Phone**: +1-555-CYBER-GUARD
-- **🌐 Website**: https://cyberguard.io/enterprise
+- **📧 Contact**: oussama.ahjli@edu.uiz.ac.ma
+- **📱 Phone**: +212 767 061 157
+- **🌐 Website**: **
 
 ---
 
