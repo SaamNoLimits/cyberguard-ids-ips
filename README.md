@@ -99,7 +99,7 @@ graph TB
     end
     
     subgraph "API Layer"
-        D[FastAPI Backend]
+        D[FlaskAPI Backend]
         E[WebSocket Server]
         F[Authentication]
     end
